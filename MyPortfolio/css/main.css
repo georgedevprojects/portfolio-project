@@ -1,0 +1,19 @@
+/* === Master Import File === */
+@import url('typography.css');
+@import url('components.css');
+
+
+.placeholder-section {
+  background-color: #fff;
+  color: #111;
+  padding: 4rem 2rem;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+
+.placeholder-content p {
+  font-size: 1.25rem;
+  margin: 0;
+}
